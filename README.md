@@ -1,5 +1,10 @@
 # 3DAMLCustomNeRFs
 Take one object of your choosing and make a NeRF of it! You are going to be using the Instant-NGP implementation by NVIDIA. (2 - 5 hours)
+
+
+https://user-images.githubusercontent.com/56688374/185812207-7283efac-86ca-4f25-8667-5cdf58ac48dc.mp4
+
+
 1. Get Instant-NGP up and running
   1. git clone https://github.com/NVlabs/instant-ngp
   2. Folow the installation instructions of Instant-NGP, Vulkan and OptiX are optional but there is no point in installing OptiX
