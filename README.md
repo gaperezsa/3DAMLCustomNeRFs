@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/56688374/185812207-7283efac-86ca-4f25-
   2. Install ffmpeg : https://www.tecmint.com/install-ffmpeg-in-linux/https://github.com/NVlabs/instant-ngp/blob/master/docs/nerf_dataset_tips.md#preparing-new-nerf-datasets
   3. Take at least 30 pictures (50 for better results) or a short video of the object your desire. Remember that the more pictures or the more frames extracted from the video as well as the sparsity of them will lead to better results! (all pictures or the video trajectory should be around the same distance to the center of the object)
   4. Follow intructions in https://github.com/NVlabs/instant-ngp/blob/master/docs/nerf_dataset_tips.md#preparing-new-nerf-datasets
-  5. Once your own NeRF is running, create a camera path and render a video of your NeRF (8 second video at 30 fps), follow steps in https://www.youtube.com/watch?v=8GbENSmdVeE&t=134s for reference
+  5. Once your own NeRF is running, create a camera path and render a video of your NeRF (8 second video at 30 fps), follow steps in https://youtu.be/8GbENSmdVeE?t=104(x,y,z coordinates)for reference
   6. Deliver your outputted .mp4 video data folder containing: base.msgpack, base_cam.json, colmap.db, colmap_sparse, colmap_text, images, transforms.json
   
 ## Part 3: answer questionaire (1 Point)
