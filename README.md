@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/56688374/185812207-7283efac-86ca-4f25-
 ## Part 2:  make your own NeRF (3 Points)
   1. Installing COLMAP, Follow instructions at https://colmap.github.io/install.html
   INPORTANT: COLMAP may complain for a variety of reasons whenever you try installing it,sometimes even having an active conda envirornment may be source of the problem. This issue discussion may be usefull : https://github.com/colmap/colmap/issues/188
-  2. Install ffmpeg : https://www.tecmint.com/install-ffmpeg-in-linux/https://github.com/NVlabs/instant-ngp/blob/master/docs/nerf_dataset_tips.md#preparing-new-nerf-datasets
+  2. Install ffmpeg : https://www.tecmint.com/install-ffmpeg-in-linux/
   3. Take at least 30 pictures (50 for better results) or a short video of the object your desire. Remember that the more pictures or the more frames extracted from the video as well as the sparsity of them will lead to better results! (all pictures or the video trajectory should be around the same distance to the center of the object)
   4. Follow intructions in https://github.com/NVlabs/instant-ngp/blob/master/docs/nerf_dataset_tips.md#preparing-new-nerf-datasets
     NOTE: https://youtu.be/8GbENSmdVeE?t=104 Is a very good reference of what youre trying to do.
