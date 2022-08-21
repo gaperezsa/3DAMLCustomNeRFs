@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/56688374/185812207-7283efac-86ca-4f25-
   4. Follow intructions in https://github.com/NVlabs/instant-ngp/blob/master/docs/nerf_dataset_tips.md#preparing-new-nerf-datasets
     NOTE: https://youtu.be/8GbENSmdVeE?t=104 Is a very good reference of what youre trying to do.
   6. Once your own NeRF is running, create a camera path and render a video of your NeRF (8 second video at 30 fps), 
-  7. Deliver your outputted .mp4 video data folder containing: base.msgpack, base_cam.json, colmap.db, colmap_sparse, colmap_text, images, transforms.json
+  7. Deliver your outputted .mp4 video and data folder containing: base.msgpack, base_cam.json, colmap.db, colmap_sparse, colmap_text, images, transforms.json
   
 ## Part 3: answer questionaire (1 Point)
 
